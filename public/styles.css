@@ -1,0 +1,44 @@
+* {
+    font-family: "montserrat", sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+body {
+    background: #333333;
+    color: #333333;
+    margin-top: 20px;
+    height: 30px;
+}
+body h2{
+    color: aliceblue;
+}
+li {
+    color: aliceblue;
+    height: 40%;
+    padding: 3px;
+}
+
+input {
+    height: 80%;
+    border: 3px solid hsl(199, 79%, 59%);
+}
+
+button{
+    height: 80%;
+    background-color: hsl(199, 79%, 59%);
+    border: 3px solid hsl(199, 79%, 59%);
+}
+
+.container {
+    width: 300px;
+    height: 40px;
+    position: relative;
+    top: 300%;
+    left: 40%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
